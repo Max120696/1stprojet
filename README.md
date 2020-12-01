@@ -1,3 +1,3 @@
 # 1stprojet
-## sous titre
+## Sous titre
 Git Discover
