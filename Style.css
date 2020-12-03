@@ -5,3 +5,11 @@ h1{
 p>{
     color: rgb(252, 252, 252);
 }
+body{
+    background-size: 100%;
+}
+
+.zorro{
+    text-align: center;
+}
+
